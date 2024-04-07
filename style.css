@@ -1,0 +1,42 @@
+#countLabel{
+    
+    display:block;
+    text-align: center;
+    
+    font-size: 12em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#buttonContainer{
+    display:block;
+    text-align: center;
+}
+
+.B{
+    padding: 20px 20px;
+    font-size: 1.25em;
+    background-color: gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-width: 0.2cm;
+    border-radius: 10%;
+    border-color:rgb(0, 0, 0);
+    cursor:grab;
+    transition: background-color 0.2s;
+    transition: color 0.2s;
+    
+}
+
+.B:hover{   
+    background-color: darkgrey;
+    color:rgb(53, 228, 26);
+}
+
+#body_id{
+    
+    background-color:#de5935;
+}
+
+#countLabel{
+
+    font-variant-emoji:text;
+}

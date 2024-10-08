@@ -1,2 +1,3 @@
-# WEB-DEVELOPMENT
-Collection of Web developement projects I have made so far.
+# Counter website
+A basic Counter website involving HTML,CSS and Javascript which I made as a newbie.
+
